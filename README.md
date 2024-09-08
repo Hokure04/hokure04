@@ -1,9 +1,8 @@
 ![Header](https://github.com/Hokure04/hokure04/blob/main/assets/Programmer.jpg)
 
-About me
-### I'm a beginner software developer and a 3rd year studdent at ITMO uneversity
+### About me
+ I'm a beginner software developer and a 3rd year studdent at ITMO uneversity
 
-Latest
 
 ### Languages and Tools
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=for-the-badge&logo=go)
@@ -15,3 +14,6 @@ Latest
 ### Follow Me
 [![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hokure)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/Hokure04)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hokure04&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
