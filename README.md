@@ -13,5 +13,5 @@ Latest
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2b%2b)
 
 ### Follow Me
-![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
-![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)
+[![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/hokure)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/Hokure04)
